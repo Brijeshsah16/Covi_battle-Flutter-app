@@ -1,4 +1,4 @@
-![WhatsApp Image 2021-06-06 at 16 39 45](https://user-images.githubusercontent.com/68849555/120922829-f4ff0c80-c6e8-11eb-8283-b1b089536f6b.jpeg)
+
 # covi_battle
 
 a covid vaccinator application 
